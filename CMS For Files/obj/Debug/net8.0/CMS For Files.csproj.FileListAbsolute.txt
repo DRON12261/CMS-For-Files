@@ -1,0 +1,30 @@
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\bin\Debug\net8.0\appsettings.Development.json
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\bin\Debug\net8.0\appsettings.json
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\bin\Debug\net8.0\CMS For Files.staticwebassets.endpoints.json
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\bin\Debug\net8.0\CMS For Files.exe
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\bin\Debug\net8.0\CMS For Files.deps.json
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\bin\Debug\net8.0\CMS For Files.runtimeconfig.json
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\bin\Debug\net8.0\CMS For Files.dll
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\bin\Debug\net8.0\CMS For Files.pdb
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\CMS For Files.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\CMS For Files.AssemblyInfoInputs.cache
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\CMS For Files.AssemblyInfo.cs
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\CMS For Files.csproj.CoreCompileInputs.cache
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\CMS For Files.MvcApplicationPartsAssemblyInfo.cache
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\CMS For Files.sourcelink.json
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\scopedcss\bundle\CMS For Files.styles.css
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\staticwebassets.build.json
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\staticwebassets.development.json
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\staticwebassets\msbuild.CMS For Files.Microsoft.AspNetCore.StaticWebAssets.props
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\staticwebassets\msbuild.CMS For Files.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\staticwebassets\msbuild.build.CMS For Files.props
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CMS For Files.props
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CMS For Files.props
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\staticwebassets.pack.json
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\CMS For Files.dll
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\refint\CMS For Files.dll
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\CMS For Files.pdb
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\CMS For Files.genruntimeconfig.cache
+S:\Projects\Visual Studio\CMS-For-Files\CMS For Files\obj\Debug\net8.0\ref\CMS For Files.dll
